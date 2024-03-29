@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="DeepRFT_chm.DeepRFT_MIMO.layers" />
+          <option value="DeepRFT_chm.DeepRFT_MIMO.nn" />
+          <option value="DeepRFT_chm.DeepRFT_MIMO.torch" />
+          <option value="DeepRFT_chm.DeepRFT_MIMO.BasicConv" />
+          <option value="DeepRFT_chm.DeepRFT_MIMO.ResBlock" />
+          <option value="DeepRFT_chm.DeepRFT_MIMO.F" />
+          <option value="DeepRFT_MIMO.einops" />
+          <option value="DeepRFT_MIMO.nn" />
+          <option value="DeepRFT_MIMO.torch" />
+          <option value="DeepRFT_MIMO.F" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
