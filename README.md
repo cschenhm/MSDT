@@ -4,7 +4,7 @@
 
 </div>
 
-> Rethinking Multi-Scale Representations in Deep Deraining Transformer
+<!-- > Rethinking Multi-Scale Representations in Deep Deraining Transformer -->
 
 
 ## 🛠️ Training and Testing
