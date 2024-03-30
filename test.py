@@ -12,8 +12,8 @@ from tqdm import tqdm
 from layers import *
 
 parser = argparse.ArgumentParser(description='Image Deraining')
-parser.add_argument('--input_dir', default='/data0/chenxiang/code/CVPR2024/Datasets/Rain200H/val/input/', type=str, help='Directory of validation images')
-parser.add_argument('--output_dir', default='./results/Rain200H', type=str, help='Directory of validation images')
+parser.add_argument('--input_dir', default='', type=str, help='Directory of validation images')
+parser.add_argument('--output_dir', default='', type=str, help='Directory of validation images')
 parser.add_argument('--weights', default='', type=str, help='Path to weights') 
 parser.add_argument('--gpus', default='0', type=str, help='CUDA_VISIBLE_DEVICES')
 parser.add_argument('--win_size', default=256, type=int, help='window size, [GoPro, HIDE, RealBlur]=256, [DPDD]=512')
