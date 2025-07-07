@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rethinking Multi-Scale Representations in Deep Deraining Transformer
+# Rethinking Multi-Scale Representations in Deep Deraining Transformer (AAAI2024)
 
 </div>
 
